@@ -125,7 +125,7 @@ const Home = () => {
                   <FaLinkedin />
                 </a>
                 <a
-                  href="https://github.com/klu-2100031365"
+                  href="https://github.com/DatlaSudeepVarma"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="GitHub"
